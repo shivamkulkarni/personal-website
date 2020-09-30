@@ -10134,3 +10134,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.textalignright {
+  text-align: right;
+}
